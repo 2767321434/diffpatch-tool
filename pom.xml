@@ -50,7 +50,7 @@
         <resources>
             <resource>
                 <directory>src/main/resources</directory>
-                <targetPath>com/github2767321434/</targetPath>
+                <targetPath>com/github/u2767321434/</targetPath>
                 <includes>
                     <include>*</include>
                     <include>**/*.*</include>
